@@ -1,7 +1,0 @@
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\bin\Debug\TP1-Recuperatorio-CristianDelgado.exe.config
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\bin\Debug\TP1-Recuperatorio-CristianDelgado.exe
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\bin\Debug\TP1-Recuperatorio-CristianDelgado.pdb
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\obj\Debug\TP1-Recuperatorio-CristianDelgado.csproj.AssemblyReference.cache
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\obj\Debug\TP1-Recuperatorio-CristianDelgado.csproj.CoreCompileInputs.cache
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\obj\Debug\TP1-Recuperatorio-CristianDelgado.exe
-C:\Users\usuario\source\repos\TP1-Recuperatorio-CristianDelgado\TP1-Recuperatorio-CristianDelgado\obj\Debug\TP1-Recuperatorio-CristianDelgado.pdb
