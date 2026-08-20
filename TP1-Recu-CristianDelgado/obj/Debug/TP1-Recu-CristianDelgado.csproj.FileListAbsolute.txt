@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\bin\Debug\TP1-Recu-CristianDelgado.exe.config
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\bin\Debug\TP1-Recu-CristianDelgado.exe
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\bin\Debug\TP1-Recu-CristianDelgado.pdb
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\obj\Debug\TP1-Recu-CristianDelgado.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\obj\Debug\TP1-Recu-CristianDelgado.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\obj\Debug\TP1-Recu-CristianDelgado.exe
+C:\Users\Alumno\source\repos\TP1-Recu-CristianDelgado\TP1-Recu-CristianDelgado\obj\Debug\TP1-Recu-CristianDelgado.pdb
